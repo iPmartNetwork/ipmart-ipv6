@@ -35,7 +35,7 @@ ________________________________
 
 
 ```sh
-git clone https://github.com/ipmartnetwork/IPv6-TunnelBroker.git /root/ipmart-ipv6 && chmod +x /root/ipmart-ipv6/install.sh && /root/ipmart-ipv6/install.sh
+git clone https://github.com/ipmartnetwork/ipmart-ipv6.git /root/ipmart-ipv6 && chmod +x /root/ipmart-ipv6/install.sh && /root/ipmart-ipv6/install.sh
 ```
 <br>
 
