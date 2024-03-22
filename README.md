@@ -7,7 +7,7 @@
 ## About The Project
 <p align="center">
   <a href="https://github.com/ipmartnetwork/ipmart-ipv6">
-    <img src="menu.JPG" alt="Logo"  >
+    <img src="v6.jpg" alt="Logo"  >
   </a>
 </p>
 
